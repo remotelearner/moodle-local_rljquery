@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2012080900; // Release date of this version of jQuery.
+$plugin->version   = 2012083000; // Release date of this version of jQuery.
 $plugin->requires  = 2012120300.00;
 $plugin->component = 'local_rljquery';
 $plugin->maturity  = MATURITY_BETA;
-$plugin->release   = '1.8.0 (2.4)'; // The jQuery release version with the Moodle release in parentheses
+$plugin->release   = '1.8.1 (2.4)'; // The jQuery release version with the Moodle release in parentheses
